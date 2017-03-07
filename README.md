@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Privacy
 
-You can use the [editor on GitHub](https://github.com/praneetloke/squiggly-privacy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- We do not store any of your location or calendar info.
+- Your info belongs with you. The app gets the location from your device.
+- The app can also sometimes, in cases of poor network, fetch your location info using a 3rd-party service known as Skyhook Wireless. Skyhook attempts to determine location using Wifi info.
+- See Skyhook's privacy policy [here](https://www.skyhookwireless.com/privacy-policy).
+- See Google's privacy policy [here](https://www.google.com/intl/en_us/policies/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Logging
 
-### Markdown
+- If you are using the logging feature, you will notice that Squiggly records your device movements and also allows you to see the points on a map (tap the lat/lon coordinate).
+- This information, however, is stored on your phone, and gets wiped when it reaches a certain size limit.
+- We do not have any control over your device.
+- We do not have this info on any servers, so please do not contact us with requests to track your lost phone etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Clarifications on identities
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/praneetloke/squiggly-privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- We, meaning, the developers/owners of this app.
+- They, meaning, the 3rd-party services the app uses.
+- You, meaning, you, the user of this app.
+- The device refers to the device on which this app is running.
